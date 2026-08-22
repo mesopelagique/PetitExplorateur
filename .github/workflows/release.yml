@@ -46,6 +46,13 @@ jobs:
           path: Components/LetterDetective.4dbase
           ref: main
           fetch-depth: 0
+      - name: Check out LetterMemory
+        uses: actions/checkout@v5
+        with:
+          repository: mesopelagique/LetterMemory
+          path: Components/LetterMemory.4dbase
+          ref: main
+          fetch-depth: 0
       - name: BuildAndPackage
         id: build-package
         uses: 4d/build4d-action@main

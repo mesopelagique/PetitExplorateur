@@ -19,6 +19,10 @@
     "LetterDetective": {
       "github": "mesopelagique/LetterDetective",
       "version": "latest"
+    },
+    "LetterMemory": {
+      "github": "mesopelagique/LetterMemory",
+      "version": "latest"
     }
   }
 }
