@@ -5,7 +5,7 @@ Built on [Hero](https://github.com/mesopelagique/Hero) (`cs.hero`): loads each g
 component and launches it from a card, the way [PlayGallery](https://github.com/mesopelagique/PlayGallery)
 does, but sized and simplified for a young child.
 
-<p align="center"><img src="Documentation/petitexplorateur.png" width="480" alt="Petit Explorateur — a 2×2 menu of big tiles: 2048, Calcul, Motifs, Lettres" /></p>
+<p align="center"><img src="Documentation/petitexplorateur.png" width="520" alt="Petit Explorateur — a menu of big tiles: 2048, Calcul, Motifs, Lettres, Mémo" /></p>
 
 ## Run it
 
@@ -20,6 +20,7 @@ then the game opens in its own window; close it to return to the menu.
 | **Calcul** | [MathQuiz](https://github.com/mesopelagique/MathQuiz) — true / false mental maths |
 | **Motifs** | [PatternQuiz](https://github.com/mesopelagique/PatternQuiz) — what comes next in the pattern? |
 | **Lettres** | [LetterDetective](https://github.com/mesopelagique/LetterDetective) — which picture starts with this letter? |
+| **Mémo** | [LetterMemory](https://github.com/mesopelagique/LetterMemory) — memory pairs matching a letter to its picture |
 
 More games will join — each is its own base built on Hero.
 
