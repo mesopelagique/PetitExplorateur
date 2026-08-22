@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="4" y="4" width="56" height="56" rx="13" fill="#5B4FA0"/>
+  <!-- a little menu of games: four colourful tiles -->
+  <rect x="13" y="13" width="18" height="18" rx="5" fill="#EDC22E"/>
+  <rect x="33" y="13" width="18" height="18" rx="5" fill="#5B9BD5"/>
+  <rect x="13" y="33" width="18" height="18" rx="5" fill="#6FB98F"/>
+  <rect x="33" y="33" width="18" height="18" rx="5" fill="#E0736A"/>
+</svg>

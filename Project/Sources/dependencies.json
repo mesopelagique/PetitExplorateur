@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "Hero": {
+      "github": "mesopelagique/Hero",
+      "version": "latest"
+    },
+    "2048": {
+      "github": "mesopelagique/2048",
+      "version": "latest"
+    },
+    "MathQuiz": {
+      "github": "mesopelagique/MathQuiz",
+      "version": "latest"
+    },
+    "PatternQuiz": {
+      "github": "mesopelagique/PatternQuiz",
+      "version": "latest"
+    },
+    "LetterDetective": {
+      "github": "mesopelagique/LetterDetective",
+      "version": "latest"
+    }
+  }
+}
