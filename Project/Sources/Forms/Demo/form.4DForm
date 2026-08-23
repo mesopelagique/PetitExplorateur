@@ -24,7 +24,7 @@
 					"left": 0,
 					"top": 0,
 					"width": 678,
-					"height": 508,
+					"height": 718,
 					"fill": "#F4F0FF",
 					"stroke": "#F4F0FF"
 				},
@@ -184,7 +184,7 @@
 				},
 				"card_4": {
 					"type": "rectangle",
-					"left": 137,
+					"left": 30,
 					"top": 292,
 					"width": 190,
 					"height": 186,
@@ -196,7 +196,7 @@
 					"type": "picture",
 					"picture": "/RESOURCES/logos/LetterDetective.png",
 					"pictureFormat": "scaled",
-					"left": 178,
+					"left": 71,
 					"top": 312,
 					"width": 108,
 					"height": 108
@@ -204,7 +204,7 @@
 				"name_4": {
 					"type": "text",
 					"text": "Lettres",
-					"left": 137,
+					"left": 30,
 					"top": 426,
 					"width": 190,
 					"height": 38,
@@ -217,7 +217,7 @@
 				"play_4": {
 					"type": "button",
 					"text": "",
-					"left": 137,
+					"left": 30,
 					"top": 292,
 					"width": 190,
 					"height": 186,
@@ -231,7 +231,7 @@
 				},
 				"card_5": {
 					"type": "rectangle",
-					"left": 351,
+					"left": 244,
 					"top": 292,
 					"width": 190,
 					"height": 186,
@@ -243,7 +243,7 @@
 					"type": "picture",
 					"picture": "/RESOURCES/logos/LetterMemory.png",
 					"pictureFormat": "scaled",
-					"left": 392,
+					"left": 285,
 					"top": 312,
 					"width": 108,
 					"height": 108
@@ -251,7 +251,7 @@
 				"name_5": {
 					"type": "text",
 					"text": "M\u00e9mo",
-					"left": 351,
+					"left": 244,
 					"top": 426,
 					"width": 190,
 					"height": 38,
@@ -264,8 +264,102 @@
 				"play_5": {
 					"type": "button",
 					"text": "",
-					"left": 351,
+					"left": 244,
 					"top": 292,
+					"width": 190,
+					"height": 186,
+					"stroke": "#000000",
+					"focusable": false,
+					"events": [
+						"onClick"
+					],
+					"fill": "transparent",
+					"borderStyle": "none"
+				},
+				"card_6": {
+					"type": "rectangle",
+					"left": 458,
+					"top": 292,
+					"width": 190,
+					"height": 186,
+					"fill": "#FCE7CE",
+					"stroke": "#FCE7CE",
+					"borderRadius": 22
+				},
+				"logo_6": {
+					"type": "picture",
+					"picture": "/RESOURCES/logos/Counting.png",
+					"pictureFormat": "scaled",
+					"left": 499,
+					"top": 312,
+					"width": 108,
+					"height": 108
+				},
+				"name_6": {
+					"type": "text",
+					"text": "Compter",
+					"left": 458,
+					"top": 426,
+					"width": 190,
+					"height": 38,
+					"fontSize": 24,
+					"fontWeight": "bold",
+					"stroke": "#344054",
+					"textAlign": "center",
+					"verticalAlign": "center"
+				},
+				"play_6": {
+					"type": "button",
+					"text": "",
+					"left": 458,
+					"top": 292,
+					"width": 190,
+					"height": 186,
+					"stroke": "#000000",
+					"focusable": false,
+					"events": [
+						"onClick"
+					],
+					"fill": "transparent",
+					"borderStyle": "none"
+				},
+				"card_7": {
+					"type": "rectangle",
+					"left": 244,
+					"top": 502,
+					"width": 190,
+					"height": 186,
+					"fill": "#E2E4EC",
+					"stroke": "#E2E4EC",
+					"borderRadius": 22
+				},
+				"logo_7": {
+					"type": "picture",
+					"picture": "/RESOURCES/logos/Simon.png",
+					"pictureFormat": "scaled",
+					"left": 285,
+					"top": 522,
+					"width": 108,
+					"height": 108
+				},
+				"name_7": {
+					"type": "text",
+					"text": "Simon",
+					"left": 244,
+					"top": 636,
+					"width": 190,
+					"height": 38,
+					"fontSize": 24,
+					"fontWeight": "bold",
+					"stroke": "#344054",
+					"textAlign": "center",
+					"verticalAlign": "center"
+				},
+				"play_7": {
+					"type": "button",
+					"text": "",
+					"left": 244,
+					"top": 502,
 					"width": 190,
 					"height": 186,
 					"stroke": "#000000",

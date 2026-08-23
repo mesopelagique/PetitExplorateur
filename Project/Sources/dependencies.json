@@ -23,6 +23,14 @@
     "LetterMemory": {
       "github": "mesopelagique/LetterMemory",
       "version": "latest"
+    },
+    "Counting": {
+      "github": "mesopelagique/Counting",
+      "version": "latest"
+    },
+    "Simon": {
+      "github": "mesopelagique/Simon",
+      "version": "latest"
     }
   }
 }
