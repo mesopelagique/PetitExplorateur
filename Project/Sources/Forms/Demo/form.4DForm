@@ -325,7 +325,7 @@
 				},
 				"card_7": {
 					"type": "rectangle",
-					"left": 244,
+					"left": 137,
 					"top": 502,
 					"width": 190,
 					"height": 186,
@@ -337,7 +337,7 @@
 					"type": "picture",
 					"picture": "/RESOURCES/logos/Simon.png",
 					"pictureFormat": "scaled",
-					"left": 285,
+					"left": 178,
 					"top": 522,
 					"width": 108,
 					"height": 108
@@ -345,7 +345,7 @@
 				"name_7": {
 					"type": "text",
 					"text": "Simon",
-					"left": 244,
+					"left": 137,
 					"top": 636,
 					"width": 190,
 					"height": 38,
@@ -358,7 +358,54 @@
 				"play_7": {
 					"type": "button",
 					"text": "",
-					"left": 244,
+					"left": 137,
+					"top": 502,
+					"width": 190,
+					"height": 186,
+					"stroke": "#000000",
+					"focusable": false,
+					"events": [
+						"onClick"
+					],
+					"fill": "transparent",
+					"borderStyle": "none"
+				},
+				"card_8": {
+					"type": "rectangle",
+					"left": 351,
+					"top": 502,
+					"width": 190,
+					"height": 186,
+					"fill": "#E4E0F2",
+					"stroke": "#E4E0F2",
+					"borderRadius": 22
+				},
+				"logo_8": {
+					"type": "picture",
+					"picture": "/RESOURCES/logos/Sudoku.png",
+					"pictureFormat": "scaled",
+					"left": 392,
+					"top": 522,
+					"width": 108,
+					"height": 108
+				},
+				"name_8": {
+					"type": "text",
+					"text": "Sudoku",
+					"left": 351,
+					"top": 636,
+					"width": 190,
+					"height": 38,
+					"fontSize": 24,
+					"fontWeight": "bold",
+					"stroke": "#344054",
+					"textAlign": "center",
+					"verticalAlign": "center"
+				},
+				"play_8": {
+					"type": "button",
+					"text": "",
+					"left": 351,
 					"top": 502,
 					"width": 190,
 					"height": 186,

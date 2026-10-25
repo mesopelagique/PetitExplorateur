@@ -12,7 +12,7 @@ Store the instance in Form.fx.
 */
 
 property transition : cs.hero.ElementTransition
-property tiles : Integer:=7                       // grows as more games are added
+property tiles : Integer:=8                       // grows as more games are added
 property homes : Collection
 property pending : Integer:=-1
 property busy : Boolean:=False

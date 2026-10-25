@@ -31,6 +31,10 @@
     "Simon": {
       "github": "mesopelagique/Simon",
       "version": "latest"
+    },
+    "Sudoku": {
+      "github": "mesopelagique/Sudoku",
+      "version": "latest"
     }
   }
 }
