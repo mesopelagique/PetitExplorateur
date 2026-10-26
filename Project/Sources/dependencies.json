@@ -35,6 +35,18 @@
     "Sudoku": {
       "github": "mesopelagique/Sudoku",
       "version": "latest"
+    },
+    "CountSyllables": {
+      "github": "mesopelagique/CountSyllables",
+      "version": "latest"
+    },
+    "MissingSyllable": {
+      "github": "mesopelagique/MissingSyllable",
+      "version": "latest"
+    },
+    "BuildWord": {
+      "github": "mesopelagique/BuildWord",
+      "version": "latest"
     }
   }
 }

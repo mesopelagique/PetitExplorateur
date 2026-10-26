@@ -24,6 +24,9 @@ then the game opens in its own window; close it to return to the menu.
 | **Compter** | [Counting](https://github.com/mesopelagique/Counting) — count the objects, tap the number |
 | **Simon** | [Simon](https://github.com/mesopelagique/Simon) — repeat the colour sequence |
 | **Sudoku** | [Sudoku](https://github.com/mesopelagique/Sudoku) — picture sudoku: each row & column holds all three |
+| **Syllabes** | [CountSyllables](https://github.com/mesopelagique/CountSyllables) — count the syllables in a word |
+| **Manquante** | [MissingSyllable](https://github.com/mesopelagique/MissingSyllable) — find the missing syllable |
+| **Construis** | [BuildWord](https://github.com/mesopelagique/BuildWord) — build the word from its syllables |
 
 More games will join — each is its own base built on Hero.
 
